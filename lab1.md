@@ -10,18 +10,26 @@
 <br /><br /><br /><br />
 
 **2. Remotely Connecting**
-First you need to get your remote access account. On windows we also need to install OpenSSH. Then open the terminal on your laptop or search it. Since we need to use SSH to get remote access so try to type in the command *ssh xxx(your account name)@ieng6.ucsd.edu*.
-<br /><br />
+<br />First you need to get your remote access account. On windows we also need to install OpenSSH. Then open the terminal on your laptop or search it. Since we need to use SSH to get remote access so try to type in the command *ssh xxx(your account name)@ieng6.ucsd.edu*.
+<img width="575" alt="Screen Shot 2022-04-10 at 17 47 44" src="https://user-images.githubusercontent.com/46670042/162648062-ded4f71a-e3c1-4938-a49d-0bf1d28a87a0.png">
+<br /><br /><br /><br />
 
 **3. Trying Some Commands**
-After we are on the remote access to our account, try some common commands which are very useful. Like *cd* or *cd..*, this command will lead you move to a child directory or back to a parent directory. And also *ls* or *ls -a* will show the list of the file or the list including the hidden file. Other commands you may try like *cat*, *touch*, *rm*, *cp* and so on.
-<br /><br />
+<br />After we are on the remote access to our account, try some common commands which are very useful. Like *cd* or *cd..*, this command will lead you move to a child directory or back to a parent directory. And also *ls* or *ls -a* will show the list of the file or the list including the hidden file. Other commands you may try like *cat*, *touch*, *rm*, *cp* and so on.
+<img width="630" alt="Screen Shot 2022-04-10 at 17 47 55" src="https://user-images.githubusercontent.com/46670042/162648071-9af99c74-2606-4083-a67e-8cead3ca7766.png">
+<br /><br /><br /><br />
 
 **4. Moving Files with scp**
-<br /><br />
+<br />
+<img width="627" alt="Screen Shot 2022-04-10 at 17 48 08" src="https://user-images.githubusercontent.com/46670042/162648088-32c49012-6b20-413d-af45-ab1c42836a4c.png">
+
+<br /><br /><br /><br />
 
 **5. Setting an SSH Key**
-<br /><br />
+<br />
+<img width="574" alt="Screen Shot 2022-04-10 at 17 48 21" src="https://user-images.githubusercontent.com/46670042/162648101-15e4072e-290c-4824-9e8f-d4d479afd66b.png">
+<br /><br /><br /><br />
 
 **6. Optimizing Remote Running**
-<br /><br />
+<br />
+<br /><br /><br /><br />
