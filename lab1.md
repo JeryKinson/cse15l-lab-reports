@@ -25,6 +25,7 @@ After we are on the remote access to our account, try some common commands which
 **4. Moving Files with scp**
 <br />
 I tried to do the compile on my desktop and the server both. And we could see since all the information printed is from the System where it compiled the java file. Since I compiled it on my mac and the server of the school, I got different user systems, user names and different paths from my laptop and the server.
+
 <img width="627" alt="Screen Shot 2022-04-10 at 17 48 08" src="https://user-images.githubusercontent.com/46670042/162648088-32c49012-6b20-413d-af45-ab1c42836a4c.png">
 <br /><br /><br /><br />
 
