@@ -5,9 +5,6 @@
 
 **1. Installing Vscode**
 Go to google and try to search VScode. Then download the VScode from the offical website. Also install it on you local desktop.
-<br />
-<br />
-<br />
 
 
 
