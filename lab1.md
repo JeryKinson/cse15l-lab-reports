@@ -6,11 +6,11 @@
 **1. Installing Vscode**
 <br />Go to google and try to search VScode. Then download the VScode from the offical website. Also install it on you local desktop.
 <img width="1015" alt="Screen Shot 2022-04-09 at 16 58 49" src="https://user-images.githubusercontent.com/46670042/162647618-575629f1-4375-46b6-b583-d9eef9941ea1.png">
+<img width="513" alt="Screen Shot 2022-04-10 at 17 46 02" src="https://user-images.githubusercontent.com/46670042/162647892-63853686-0702-461f-bb85-2ec8e63f3ebe.png">
 <br /><br />
 
 **2. Remotely Connecting**
 First you need to get your remote access account. On windows we also need to install OpenSSH. Then open the terminal on your laptop or search it. Since we need to use SSH to get remote access so try to type in the command *ssh xxx(your account name)@ieng6.ucsd.edu*.
-<img width="513" alt="Screen Shot 2022-04-10 at 17 46 02" src="https://user-images.githubusercontent.com/46670042/162647892-63853686-0702-461f-bb85-2ec8e63f3ebe.png">
 <br /><br />
 
 **3. Trying Some Commands**
