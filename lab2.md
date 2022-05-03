@@ -8,7 +8,7 @@
 <img width="742" alt="Screen Shot 2022-05-02 at 22 23 20" src="https://user-images.githubusercontent.com/46670042/166407759-bc748198-5c23-4548-9762-b63fe1e6bb22.png">
 
 Since this is an infinity loop which means there is nothing to stop the loop. It will cause the program keeping running until running out of the memory. So we need to add some statements to stop the program.
-
+<br /><br /><br /><br />
 
 <img width="1221" alt="Screen Shot 2022-05-02 at 22 00 50" src="https://user-images.githubusercontent.com/46670042/166406500-899033a4-617b-437d-b331-5ac6c798d113.png">
 
