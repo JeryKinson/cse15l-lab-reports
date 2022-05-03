@@ -6,7 +6,8 @@
 
 
 <img width="1221" alt="Screen Shot 2022-05-02 at 22 00 50" src="https://user-images.githubusercontent.com/46670042/166406500-899033a4-617b-437d-b331-5ac6c798d113.png">
-Link: # Title
+[Link](https://github.com/JeryKinson/cse15l-lab-reports/blob/main/test-file.md)
+<img width="742" alt="Screen Shot 2022-05-02 at 22 17 23" src="https://user-images.githubusercontent.com/46670042/166407430-ceeb5753-cd59-46b3-aeda-9cbfbcc519a5.png">
 
-[link1](https://something.com)
-[link2](some-thing.html)
+The reason why we need to do this is because we need to first figure out why this bug happen. It is hard to find the problem directly looking up the code. But we can print the currentindex out each time so that we can easily find the problem.
+
