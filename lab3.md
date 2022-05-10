@@ -1,11 +1,17 @@
 <img width="1145" alt="Screen Shot 2022-05-10 at 01 31 48" src="https://user-images.githubusercontent.com/46670042/167602962-6abb66e4-1de0-44c6-acf0-0113e41945a4.png">
-Simply 
-
+Simply open the config file and add some lines in it.
 
 <img width="1145" alt="Screen Shot 2022-05-10 at 01 36 15" src="https://user-images.githubusercontent.com/46670042/167602979-3d177985-9dac-4e46-8bf2-b66d3dda384b.png">
+Using the nickname to log in to the remote account
+
 <img width="1145" alt="Screen Shot 2022-05-10 at 01 37 07" src="https://user-images.githubusercontent.com/46670042/167603002-ddc0ee5b-66d0-49b7-a87f-7823c68adb01.png">
+In the scp command I also use the nickname to locate the account
+
 <img width="820" alt="Screen Shot 2022-05-10 at 02 00 27" src="https://user-images.githubusercontent.com/46670042/167603012-5c04646a-5dee-4307-bf71-5027891af32c.png">
+Store the public key on Github
+
 <img width="723" alt="Screen Shot 2022-05-10 at 02 04 58" src="https://user-images.githubusercontent.com/46670042/167603021-3b3ec66a-f7c0-4ded-bb7d-9fc7673e1938.png">
+The private key is storing in the remote account
 
 https://github.com/JeryKinson/cse15l-lab-reports/blob/main/MarkdownParseTest.java
 <img width="1236" alt="Screen Shot 2022-05-10 at 02 59 53" src="https://user-images.githubusercontent.com/46670042/167603607-7a3a2447-6623-454b-8e38-35898c384697.png">
