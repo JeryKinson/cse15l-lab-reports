@@ -17,8 +17,9 @@ I edit the Github file on the remote account and push it
 https://github.com/JeryKinson/cse15l-lab-reports/blob/main/MarkdownParseTest.java
 <img width="1236" alt="Screen Shot 2022-05-10 at 02 59 53" src="https://user-images.githubusercontent.com/46670042/167603607-7a3a2447-6623-454b-8e38-35898c384697.png">
 
-Copy the whole folder from the local to the sever
 ![Screen Shot 2022-05-10 at 02 09 48](https://user-images.githubusercontent.com/46670042/167603030-274db7d8-0f81-40f0-a54c-e08630a472a1.png)
+
+Copy the whole folder from the local to the sever
 <img width="927" alt="Screen Shot 2022-05-10 at 02 46 39" src="https://user-images.githubusercontent.com/46670042/167603036-0b25491a-4072-497d-97aa-53602e5e5dce.png">
 
 Compiling the java file after the copy done
