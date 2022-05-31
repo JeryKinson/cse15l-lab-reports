@@ -25,4 +25,19 @@ The review test results:
 
 <img width="813" alt="Screen Shot 2022-05-30 at 21 02 13" src="https://user-images.githubusercontent.com/46670042/171090404-c64efbf9-5eff-4a93-809f-97ad01717d4b.png">
 
+The results we want to get should be:
+
+<img width="575" alt="Screen Shot 2022-05-30 at 21 09 17" src="https://user-images.githubusercontent.com/46670042/171091114-127573d6-7e84-4ea7-8f1b-5ec72d1579fc.png">
+
+
+Question:
+
+1. Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
+
+
+2. Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.
+
+
+3. Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.
+
 
