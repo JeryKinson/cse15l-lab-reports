@@ -34,10 +34,12 @@ Question:
 
 1. Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
 
+Snippet 1 requires very complex changes to debug because " " is a big problem to distinguish between code and plain text comments in snippets. To fix this bug, we need to implement another special helper method to handle the relationship between between " " and the bracket parentheses, because it has higher priority than the other two
 
 2. Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.
 
+Yes, snippet 2 can be solved with a simple change where we set a temporary integer variable for the open parentheses and the close parentheses and compare them and if the two integers are not equal, the code should continue searching
 
 3. Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.
 
-
+Yes, snippet 3 should be easy to fix. The main problem is just the newline format. To check if there is blank space and/or newlines between the open and close bracket, then skip to the next "(" and ignore this current link if there is it.
