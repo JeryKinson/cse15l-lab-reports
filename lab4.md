@@ -43,3 +43,5 @@ Yes, snippet 2 can be solved with a simple change where we set a temporary integ
 3. Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.
 
 Yes, snippet 3 should be easy to fix. The main problem is just the newline format. To check if there is blank space and/or newlines between the open and close bracket, then skip to the next "(" and ignore this current link if there is it.
+
+For my second test which is passed, just set a temporary integer variable for the open parentheses and the close parentheses and compare them and if the two integers are not equal, the code should continue searching
