@@ -8,6 +8,8 @@ My test cases code:
 
 My test results:
 
+The second test passed!!!
+
 <img width="813" alt="Screen Shot 2022-05-30 at 21 02 19" src="https://user-images.githubusercontent.com/46670042/171090410-3a75117c-616e-4f86-bafc-40a443797f45.png">
 
 <img width="1476" alt="Screen Shot 2022-05-30 at 20 57 30" src="https://user-images.githubusercontent.com/46670042/171090231-a19ce496-ed72-4210-9e60-7cb0ee816a0c.png">
