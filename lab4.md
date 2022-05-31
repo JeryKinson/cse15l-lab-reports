@@ -9,6 +9,8 @@ My test cases code:
 My test results:
 
 The second test passed!!!
+<img width="1014" alt="Screen Shot 2022-05-30 at 21 24 45" src="https://user-images.githubusercontent.com/46670042/171092545-2c76b948-a428-4a26-8c25-1b9cb1b903ec.png">
+
 
 <img width="813" alt="Screen Shot 2022-05-30 at 21 02 19" src="https://user-images.githubusercontent.com/46670042/171090410-3a75117c-616e-4f86-bafc-40a443797f45.png">
 
