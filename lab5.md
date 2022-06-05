@@ -20,7 +20,7 @@ How to fix it:
 
 489.md: https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/489.md
 <img width="1091" alt="Screen Shot 2022-06-05 at 15 39 16" src="https://user-images.githubusercontent.com/46670042/172073845-088c148c-4839-47e5-8654-f9184215c8e6.png">
-For this case, the correct output should be the empty one as well. The key why my code could not work is because in the middle of the URL link a line got changed. But my code just simply check the contents between () and []. It won't check the completion of the link. To fix that, we could just ignore the link we are working on and skip to the next ( when we encounter a case that the link has newliner inside [] or ().
+For this case, the correct output should be the empty one as well. The key why my code could not work is because in the middle of the URL link a line got changed. But my code just simply check the contents between () and []. It won't check the completion of the link. I guess that is the main problem why my code cannot get the correct answer. To fix that, we could just ignore the link we are working on and skip to the next ( when we encounter a case that the link has newliner inside [] or ().
 
 How to fix it:
 
