@@ -6,7 +6,10 @@ For the test case 489 should work fine for my code because I encountered a simil
 
 For test case 201, it seems that "()" sorting cause problems because my code only detects the content between "(). In this 201.md, the space between the name and the link will be the key to make my code not work correctly. 
 
-<img width="417" alt="Screen Shot 2022-06-05 at 15 40 32" src="https://user-images.githubusercontent.com/46670042/172073811-4975b978-38a2-4ece-8cbb-26966a650317.png">
+<img width="390" alt="Screen Shot 2022-06-05 at 16 45 49" src="https://user-images.githubusercontent.com/46670042/172075587-5c77ae8c-3dbc-45f7-9402-f600850f47ab.png">
+<img width="387" alt="Screen Shot 2022-06-05 at 16 47 26" src="https://user-images.githubusercontent.com/46670042/172075589-027566d8-8524-4725-b26b-347acc214bc9.png">
+
+
 <br><br>
 
 201.md: https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/201.md
