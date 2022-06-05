@@ -8,8 +8,6 @@ For test case 201, it seems that "()" sorting cause problems because my code onl
 
 <img width="390" alt="Screen Shot 2022-06-05 at 16 45 49" src="https://user-images.githubusercontent.com/46670042/172075587-5c77ae8c-3dbc-45f7-9402-f600850f47ab.png">
 <img width="387" alt="Screen Shot 2022-06-05 at 16 47 26" src="https://user-images.githubusercontent.com/46670042/172075589-027566d8-8524-4725-b26b-347acc214bc9.png">
-
-
 <br><br>
 
 201.md: https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/201.md
