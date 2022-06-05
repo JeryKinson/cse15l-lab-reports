@@ -10,7 +10,8 @@ For test case 201, it seems that "()" sorting cause problems because my code onl
 <br><br>
 
 201.md: https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/201.md
-<img width="1092" alt="Screen Shot 2022-06-05 at 15 39 37" src="https://user-images.githubusercontent.com/46670042/172073842-a5b611bb-5b10-42a3-ab01-3c94158e4d5a.png">
+<img width="1081" alt="Screen Shot 2022-06-05 at 16 43 43" src="https://user-images.githubusercontent.com/46670042/172075488-75104824-79c0-41b3-85b4-de8c8e1cef19.png">
+
 For this case, the correct output should be the empty one. The key is that the order of the two () and the []. But my code just combine the first line's second () with the second line's []. That caused we got a wrong link. To fix that, we just need to simply write an if statement to set a condition to check is the ( exactly one index after the ]. If that is true, just do the common step as usual. Otherwise, we can skip it and continue to next [.
 
 How to fix it:
