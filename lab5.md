@@ -15,7 +15,7 @@ For this case, the correct output should be the empty one. There are two pair's 
 
 How to fix it:
 
-<img width="292" alt="Screen Shot 2022-06-05 at 16 21 01" src="https://user-images.githubusercontent.com/46670042/172074758-ca077606-f4fe-4ba0-88b2-0a604723ac58.png">
+
 
 
 <br><br>
@@ -25,4 +25,7 @@ How to fix it:
 The reason for my code failed the tester case #489 is because there is a line change in the middle of the url link. However my algorithm just check the content between the "()" and "[]" and do not care the link's completion. The solution is to when the link has newliner inside the "()" or "[]", ignore the current link and skip to the next "(".
 
 How to fix it:
+
+<img width="292" alt="Screen Shot 2022-06-05 at 16 21 01" src="https://user-images.githubusercontent.com/46670042/172074770-e89c32be-c6d7-4d61-addb-2bff527dee00.png">
+
 
