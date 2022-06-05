@@ -1,4 +1,4 @@
-CSE 15L Lab Report 5
+**CSE 15L Lab Report 5**
 
 I noticed that the test case 201 and test case 489 both are different when I run my code to test it and the given code to test it, then I decide to use vimdiff to make sure if my code passed these two tests or not. 
 
