@@ -16,8 +16,6 @@ For this case, the correct output should be the empty one. There are two pair's 
 How to fix it:
 
 <img width="290" alt="Screen Shot 2022-06-05 at 16 22 42" src="https://user-images.githubusercontent.com/46670042/172074808-77f6a97c-2b30-4421-82e7-9758a1a385bc.png">
-
-
 <br><br>
 
 489.md: https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/489.md
@@ -27,6 +25,3 @@ The reason for my code failed the tester case #489 is because there is a line ch
 How to fix it:
 
 <img width="292" alt="Screen Shot 2022-06-05 at 16 21 01" src="https://user-images.githubusercontent.com/46670042/172074770-e89c32be-c6d7-4d61-addb-2bff527dee00.png">
-
-
-
